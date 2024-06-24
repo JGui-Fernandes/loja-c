@@ -4,6 +4,9 @@
 #include <stdlib.h>
 #include "loja.h"
 
+// Arthur Alves Pasini
+// João Guilherme Borges Fernandes
+// Vinícius da Rosa Fröhlich
 
 int main (){
     Produto produtos[20];
