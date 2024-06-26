@@ -19,7 +19,7 @@ typedef struct{
 typedef struct {
     int id;
     char nomeComprador[50];
-    Carrinho carrinho[20];
+    Carrinho carrinho[30];
     int numItens;
     float valorTotal;
 } Venda;
